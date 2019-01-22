@@ -12,13 +12,8 @@
 4. 每期图库预测
 5. 每期幽默预测
 ```markdown
-![Image](http://lwhy.oss-cn-beijing.aliyuncs.com/icon.png)
+[Android下载](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk)
 
-
-[Link](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
