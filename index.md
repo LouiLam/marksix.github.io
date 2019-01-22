@@ -1,6 +1,6 @@
 ## 欢迎您的到来
 
-[editor on GitHub](https://github.com/LouiLam/marksix.github.io/edit/master/index.md)
+
 
 
 ### 适当娱乐
