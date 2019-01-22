@@ -9,7 +9,8 @@
 2. 极简操作
 3. 安全稳定
 4. 每期图库预测
-5. 每期幽默预测
+5. 每期幽默预测  
+
 ![Image](http://lwhy.oss-cn-beijing.aliyuncs.com/icon.png)  
 
 [Android下载](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk)
