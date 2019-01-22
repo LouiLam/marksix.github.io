@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎您的到来
 
 [editor on GitHub](https://github.com/LouiLam/marksix.github.io/edit/master/index.md)
 
-下载 [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 适当娱乐
 
@@ -13,7 +12,7 @@
 5. 每期幽默预测
 
 [Android下载](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk)
-![Image](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk)
+![Image](http://lwhy.oss-cn-beijing.aliyuncs.com/icon.png)
 
 
 ### 支持或者联系我们
