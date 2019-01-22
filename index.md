@@ -4,26 +4,18 @@
 
 下载 [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 适当娱乐
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+1. 语音播报
+2. 极简操作
+3. 安全稳定
+4. 每期图库预测
+5. 每期幽默预测
 ```markdown
-Syntax highlighted code block
+![Image](http://lwhy.oss-cn-beijing.aliyuncs.com/icon.png)
 
-# 标题 1
-## H标题 2
-### 标题 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
