@@ -11,13 +11,10 @@
 3. 安全稳定
 4. 每期图库预测
 5. 每期幽默预测
-```markdown
+
 [Android下载](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk)
+![Image](http://lwhy.oss-cn-beijing.aliyuncs.com/xwapp.apk)
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LouiLam/marksix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 支持或者联系我们
 
